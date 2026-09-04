@@ -40,7 +40,7 @@ A documentação detalhada está disponível na pasta [docs](docs/README.md).
 
 Software House **System32**.
 
-> Os nomes e as responsabilidades dos integrantes serão registrados após a definição oficial da equipe.
+
 
 ## Status
 
