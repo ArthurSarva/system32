@@ -32,15 +32,40 @@ Desenvolver uma aplicação web que centralize e simplifique o agendamento de co
 - Consulta do histórico de agendamentos;
 - Painel administrativo.
 
+
+## Tecnologias iniciais
+
+- Next.js;
+- React;
+- TypeScript;
+- CSS;
+- SQL/SQLite para o desenvolvimento inicial.
+
+## Como executar
+
+```bash
+npm install
+npm run dev
+```
+
+Depois, acesse `http://localhost:3000`.
+
+## Estrutura inicial
+
+- `src/app`: páginas, layout e estilos;
+- `src/app/api`: rotas da API;
+- `database`: modelo inicial do banco;
+- `docs`: documentação do projeto.
+
 ## Documentação
 
-A documentação detalhada está disponível na pasta [docs](docs/README.md).
+A documentação detalhada está disponível na pasta [docs](docs/README.md), incluindo o [guia de implementação](docs/07-implementacao.md).
 
 ## Equipe
 
 Software House **System32**.
 
-
+> Os nomes e as responsabilidades dos integrantes serão registrados após a definição oficial da equipe.
 
 ## Status
 
